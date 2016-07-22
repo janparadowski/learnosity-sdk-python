@@ -1,6 +1,6 @@
 import setuptools
 
-VERSION = '0.0.4'
+VERSION = '1.0'
 
 setup = dict(
     author='Daniel Bryan',
